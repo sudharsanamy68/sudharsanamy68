@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sudharsanam Y</h1>
 <h3 align="center">A passionate cyber security from India</h3>
-<img align="right" alt="coding" width="40" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsanamy68&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsanamy68" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanamy68" alt="sudharsanamy68" /></a> </p>
 
-- 🌱 I’m currently learning **operational research**
+- 👨‍💻🌱 I’m currently learning **operational research**
 
 - 💬 Ask me about **cybersecurity&operations research**
 
