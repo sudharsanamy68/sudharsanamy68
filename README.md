@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudharsanam Y</h1>
 <h3 align="center">Passionate about safeguarding digital assets and enhancing network security. Skilled in identifying vulnerabilities and implementing robust security measures. Committed to staying updated with the latest cybersecurity trends and technologies. Eager to contribute to innovative solutions and collaborate on challenging projects. Let's secure the future together</h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+</a>
+
 
 
 
@@ -9,9 +13,7 @@
 
 - 📫 How to reach me **sudharsanamy908@gmail.com**
 
-  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img align="center" alt="coding" width="500" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsanamy68&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsanamy68" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanamy68" alt="sudharsanamy68" /></a> </p>
@@ -22,7 +24,7 @@
  <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sudharsanam-y-959388229/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/sudharsanamy68">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		
 </p>
