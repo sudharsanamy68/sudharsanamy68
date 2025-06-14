@@ -34,6 +34,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%93%91Certificates" alt="Typing SVG" /></a>
+ 
+ <p align="center">
+  <a href="https://github.com/sudharsanamy68/sudharsanamy68/blob/main/CyberZely%202023%20(34).jpg"><img src="certificates/drdo_certificate.png" alt="DRDO Internship" width="400"/></a>
+  <br><br>
+  <a href="certificates/python_cybersecurity.png"><img src="certificates/python_cybersecurity.png" alt="Python" width="400"/></a>
+  <br><br>
+  <a href="certificates/network_security.png"><img src="certificates/network_security.png" alt="Network Security" width="400"/></a>
+  <br><br>
+  <a href="certificates/ethical_hacking.png"><img src="certificates/ethical_hacking.png" alt="Ethical Hacking" width="400"/></a>
+</p>
+
 	
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudharsanamy68&show_icons=true&locale=en&layout=compact" alt="sudharsanamy68" /></p>
+
 
